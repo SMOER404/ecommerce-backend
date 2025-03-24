@@ -260,4 +260,3 @@ erDiagram
         datetime createdAt
         datetime updatedAt
     }
-</rewritten_file> 
